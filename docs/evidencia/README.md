@@ -1,7 +1,6 @@
 # Evidencia
 
-Capturas reales del programa funcionando, tomadas el 22 de noviembre de 2026 con **datos de demostración**
-(nombres, cuentas y cifras inventadas). No contienen datos personales reales.
+Capturas reales del programa funcionando, tomadas el 22 de noviembre de 2026 sin placa conectada: la página es la misma que sirve el firmware, mostrada con un simulador local y con los **valores por defecto** del código.
 
 ## 1. Panel de control en el celular
 
